@@ -1,0 +1,1 @@
+PathMatch is a smart, gamified platform that matches Albanian high school students with the right private university programs based on their passions and goals. It simplifies the overwhelming choice of what to study by offering personalised guidance through quizzes, insights, and real-time support.
