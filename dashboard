@@ -2671,6 +2671,307 @@
 </section>
 
   
+    
+    
+
+
+  
+  
+
+
+<section
+  data-test="page-section"
+  
+  data-section-theme="light"
+  class='page-section 
+    
+      full-bleed-section
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--small
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    light'
+  
+  data-section-id="6816bc8a91c4a55e567a6ddd"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+&quot;imageOverlayOpacity&quot;: 0.15,
+&quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+&quot;sectionHeight&quot;: &quot;section-height--small&quot;,
+&quot;customSectionHeight&quot;: 1,
+&quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+&quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+&quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+&quot;customContentWidth&quot;: 50,
+&quot;sectionTheme&quot;: &quot;light&quot;,
+&quot;sectionAnimation&quot;: &quot;none&quot;,
+&quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-current-context="{
+&quot;video&quot;: {
+&quot;playbackSpeed&quot;: 0.5,
+&quot;filter&quot;: 2,
+&quot;filterStrength&quot;: 0,
+&quot;zoom&quot;: 0,
+&quot;videoSourceProvider&quot;: &quot;none&quot;
+},
+&quot;backgroundImageId&quot;: null,
+&quot;backgroundMediaEffect&quot;: {
+&quot;type&quot;: &quot;none&quot;
+},
+&quot;divider&quot;: {
+&quot;enabled&quot;: false,
+&quot;type&quot;: &quot;scalloped&quot;,
+&quot;width&quot;: {
+&quot;unit&quot;: &quot;vw&quot;,
+&quot;value&quot;: 100.0
+},
+&quot;height&quot;: {
+&quot;unit&quot;: &quot;vw&quot;,
+&quot;value&quot;: 8.0
+},
+&quot;isFlipX&quot;: false,
+&quot;isFlipY&quot;: true,
+&quot;offset&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 0.0
+},
+&quot;stroke&quot;: {
+&quot;style&quot;: &quot;none&quot;,
+&quot;color&quot;: {
+&quot;type&quot;: &quot;THEME_COLOR&quot;
+},
+&quot;thickness&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 6.0
+},
+&quot;dashLength&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 5.0
+},
+&quot;gapLength&quot;: {
+&quot;unit&quot;: &quot;px&quot;,
+&quot;value&quot;: 15.0
+},
+&quot;linecap&quot;: &quot;square&quot;
+}
+},
+&quot;typeName&quot;: &quot;page&quot;
+}"
+  data-animation="none"
+  data-fluid-engine-section
+   
+  
+    
+  
+  
+>
+  <div
+    class="section-border"
+    
+  >
+    <div class="section-background">
+    
+      
+    
+    </div>
+  </div>
+  <div
+    class='content-wrapper'
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      
+      
+      <div data-fluid-engine="true"><style>
+
+.fe-6816bc8a91c4a55e567a6ddc {
+  --grid-gutter: calc(var(--sqs-mobile-site-gutter, 6vw) - 11.0px);
+  --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (8 - 1)) ) / 8 );
+
+  display: grid;
+  position: relative;
+  grid-area: 1/1/-1/-1;
+  grid-template-rows: repeat(8,minmax(24px, auto));
+  grid-template-columns:
+    minmax(var(--grid-gutter), 1fr)
+    repeat(8, minmax(0, var(--cell-max-width)))
+    minmax(var(--grid-gutter), 1fr);
+  row-gap: 11.0px;
+  column-gap: 11.0px;
+}
+
+@media (min-width: 768px) {
+  .background-width--inset .fe-6816bc8a91c4a55e567a6ddc {
+    --inset-padding: calc(var(--sqs-site-gutter) * 2);
+  }
+
+  .fe-6816bc8a91c4a55e567a6ddc {
+    --grid-gutter: calc(var(--sqs-site-gutter, 4vw) - 11.0px);
+    --cell-max-width: calc( ( var(--sqs-site-max-width, 1500px) - (11.0px * (24 - 1)) ) / 24 );
+    --inset-padding: 0vw;
+
+    --row-height-scaling-factor: 0.0215;
+    --container-width: min(var(--sqs-site-max-width, 1500px), calc(100vw - var(--sqs-site-gutter, 4vw) * 2 - var(--inset-padding) ));
+
+    grid-template-rows: repeat(27,minmax(calc(var(--container-width) * var(--row-height-scaling-factor)), auto));
+    grid-template-columns:
+      minmax(var(--grid-gutter), 1fr)
+      repeat(24, minmax(0, var(--cell-max-width)))
+      minmax(var(--grid-gutter), 1fr);
+  }
+}
+
+
+  .fe-block-yui_3_17_2_1_1746320061127_13283 {
+    grid-area: 1/2/9/10;
+    z-index: 1;
+
+    @media (max-width: 767px) {
+      
+        
+      
+    }
+  }
+
+  .fe-block-yui_3_17_2_1_1746320061127_13283 .sqs-block {
+    justify-content: flex-start;
+  }
+
+  .fe-block-yui_3_17_2_1_1746320061127_13283 .sqs-block-alignment-wrapper {
+    align-items: flex-start;
+  }
+
+  @media (min-width: 768px) {
+    .fe-block-yui_3_17_2_1_1746320061127_13283 {
+      grid-area: 3/10/28/20;
+      z-index: 1;
+
+      
+        
+      
+    }
+
+    .fe-block-yui_3_17_2_1_1746320061127_13283 .sqs-block {
+      justify-content: flex-start;
+    }
+
+    .fe-block-yui_3_17_2_1_1746320061127_13283 .sqs-block-alignment-wrapper {
+      align-items: flex-start;
+    }
+  }
+
+</style><div class="fluid-engine fe-6816bc8a91c4a55e567a6ddc"><div class="fe-block fe-block-yui_3_17_2_1_1746320061127_13283"><div class="sqs-block embed-block sqs-block-embed" data-block-json="&#123;&quot;customThumbEnabled&quot;:false,&quot;html&quot;:&quot;&lt;!DOCTYPE html&gt;\n&lt;html lang=\&quot;en\&quot;&gt;\n&lt;head&gt;\n  &lt;meta charset=\&quot;UTF-8\&quot; /&gt;\n  &lt;title&gt;PathMatch AI ChatBot&lt;/title&gt;\n  &lt;style&gt;\n    body &#123; font-family: Arial, sans-serif; &#125;\n    #chatbox &#123;\n      width: 400px; height: 500px; border: 1px solid #ccc;\n      padding: 10px; overflow-y: auto; background: #f9f9f9;\n    &#125;\n    .bot &#123; color: #2a9d8f; margin: 10px 0; &#125;\n    .user &#123; color: #264653; text-align: right; margin: 10px 0; &#125;\n    #inputArea &#123; margin-top: 10px; &#125;\n    input[type=\&quot;text\&quot;] &#123;\n      width: 300px; padding: 8px;\n    &#125;\n    button &#123; padding: 8px 10px; &#125;\n  &lt;/style&gt;\n&lt;/head&gt;\n&lt;body&gt;\n\n&lt;h2&gt;PathMatch Assistant&lt;/h2&gt;\n&lt;div id=\&quot;chatbox\&quot;&gt;\n  &lt;div class=\&quot;bot\&quot;&gt;\uD83D\uDC4B Hi! I'm your PathMatch assistant. Ask me anything about university programs in Albania!&lt;/div&gt;\n&lt;/div&gt;\n\n&lt;div id=\&quot;inputArea\&quot;&gt;\n  &lt;input type=\&quot;text\&quot; id=\&quot;userInput\&quot; placeholder=\&quot;Type your question...\&quot; /&gt;\n  &lt;button onclick=\&quot;sendMessage()\&quot;&gt;Send&lt;/button&gt;\n&lt;/div&gt;\n\n&lt;script&gt;\nconst chatbox = document.getElementById(\&quot;chatbox\&quot;);\n\nfunction sendMessage() &#123;\n  const input = document.getElementById(\&quot;userInput\&quot;);\n  const message = input.value.trim();\n  if (!message) return;\n\n  appendMessage(\&quot;user\&quot;, message);\n  getBotResponse(message);\n  input.value = \&quot;\&quot;;\n&#125;\n\nfunction appendMessage(role, text) &#123;\n  const div = document.createElement(\&quot;div\&quot;);\n  div.className = role;\n  div.textContent = (role === \&quot;user\&quot; ? \&quot;\uD83E\uDDD1\u200D\uD83C\uDF93 \&quot; : \&quot;\uD83E\uDD16 \&quot;) + text;\n  chatbox.appendChild(div);\n  chatbox.scrollTop = chatbox.scrollHeight;\n&#125;\n\nfunction getBotResponse(message) &#123;\n  const lower = message.toLowerCase();\n\n  let response = \&quot;Sorry, I didn\u2019t understand that. Try asking about programs, interests, or careers!\&quot;;\n\n  if (lower.includes(\&quot;hello\&quot;) &#124;&#124; lower.includes(\&quot;hi\&quot;)) &#123;\n    response = \&quot;Hello! \uD83D\uDE0A What are you passionate about? I can help match you with the right study program.\&quot;;\n  &#125; else if (lower.includes(\&quot;business\&quot;)) &#123;\n    response = \&quot;If you're into business, check out Management, Marketing, or Entrepreneurship programs at CIT or UET!\&quot;;\n  &#125; else if (lower.includes(\&quot;technology\&quot;) &#124;&#124; lower.includes(\&quot;tech\&quot;)) &#123;\n    response = \&quot;Great choice! You might love Computer Science, AI, or Cybersecurity programs at CIT or Epoka.\&quot;;\n  &#125; else if (lower.includes(\&quot;passion\&quot;) &#124;&#124; lower.includes(\&quot;interested in\&quot;)) &#123;\n    response = \&quot;Tell me more about your interests, and I'll suggest the best-fit university paths for you!\&quot;;\n  &#125; else if (lower.includes(\&quot;quiz\&quot;)) &#123;\n    response = \&quot;You can take our personalized quiz to find the perfect match for you! \uD83E\uDDE0\u2728\&quot;;\n  &#125; else if (lower.includes(\&quot;where\&quot;) &amp;&amp; lower.includes(\&quot;study\&quot;)) &#123;\n    response = \&quot;Let me know your interests, and I\u2019ll guide you to the most suitable private university in Albania!\&quot;;\n  &#125;\n\n  appendMessage(\&quot;bot\&quot;, response);\n&#125;\n&lt;/script&gt;\n\n&lt;/body&gt;\n&lt;/html&gt;\n&quot;&#125;" data-block-type="22" id="block-yui_3_17_2_1_1746320061127_13283"><div class="sqs-block-content"><!DOCTYPE html>
+<html xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://www.facebook.com/2008/fbml" lang="en-US"  lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>PathMatch AI ChatBot</title>
+  <style>
+    body { font-family: Arial, sans-serif; }
+    #chatbox {
+      width: 400px; height: 500px; border: 1px solid #ccc;
+      padding: 10px; overflow-y: auto; background: #f9f9f9;
+    }
+    .bot { color: #2a9d8f; margin: 10px 0; }
+    .user { color: #264653; text-align: right; margin: 10px 0; }
+    #inputArea { margin-top: 10px; }
+    input[type="text"] {
+      width: 300px; padding: 8px;
+    }
+    button { padding: 8px 10px; }
+  </style>
+</head>
+<body>
+
+<h2>PathMatch Assistant</h2>
+<div id="chatbox">
+  <div class="bot">👋 Hi! I'm your PathMatch assistant. Ask me anything about university programs in Albania!</div>
+</div>
+
+<div id="inputArea">
+  <input type="text" id="userInput" placeholder="Type your question..." />
+  <button onclick="sendMessage()">Send</button>
+</div>
+
+<script>
+const chatbox = document.getElementById("chatbox");
+
+function sendMessage() {
+  const input = document.getElementById("userInput");
+  const message = input.value.trim();
+  if (!message) return;
+
+  appendMessage("user", message);
+  getBotResponse(message);
+  input.value = "";
+}
+
+function appendMessage(role, text) {
+  const div = document.createElement("div");
+  div.className = role;
+  div.textContent = (role === "user" ? "🧑‍🎓 " : "🤖 ") + text;
+  chatbox.appendChild(div);
+  chatbox.scrollTop = chatbox.scrollHeight;
+}
+
+function getBotResponse(message) {
+  const lower = message.toLowerCase();
+
+  let response = "Sorry, I didn’t understand that. Try asking about programs, interests, or careers!";
+
+  if (lower.includes("hello") || lower.includes("hi")) {
+    response = "Hello! 😊 What are you passionate about? I can help match you with the right study program.";
+  } else if (lower.includes("business")) {
+    response = "If you're into business, check out Management, Marketing, or Entrepreneurship programs at CIT or UET!";
+  } else if (lower.includes("technology") || lower.includes("tech")) {
+    response = "Great choice! You might love Computer Science, AI, or Cybersecurity programs at CIT or Epoka.";
+  } else if (lower.includes("passion") || lower.includes("interested in")) {
+    response = "Tell me more about your interests, and I'll suggest the best-fit university paths for you!";
+  } else if (lower.includes("quiz")) {
+    response = "You can take our personalized quiz to find the perfect match for you! 🧠✨";
+  } else if (lower.includes("where") && lower.includes("study")) {
+    response = "Let me know your interests, and I’ll guide you to the most suitable private university in Albania!";
+  }
+
+  appendMessage("bot", response);
+}
+</script>
+
+</body>
+</html>
+</div></div></div></div></div>
+    </div>
+  
+  </div>
+  
+</section>
+
+  
 </article>
 
 
